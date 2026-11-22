@@ -1,0 +1,155 @@
+
+Varibale = Identifiers
+manoj  = "12345"
+
+Rules For defining a identifier/Variable:-
+
+Either lower case or upper case letter 
+Digits/ number 
+Under score
+
+
+Data Types:-
+
+a="Manoj"
+
+echo "$a"
+
+print (a)
+
+
+In python their are 14 data types:-
+
+Integer  (int)
+floating  number (float)
+complex number  (ai + bj) (complex)
+boolean  (bool)
+string   (str)
+bytes    
+bytearray 
+range 
+list
+tuple
+set
+dict
+Frozenset
+None
+
+
+
+type() :-to check the type of Variable
+
+int data type:-
+
+We can represnt the values in 4 ways:-
+
+decimal
+Binary
+Octal
+Hexadecimal
+
+Decimal :-
+
+default  number system in all programming languages
+it conatins numbers from 0 to 9
+
+Binary :- 
+this number system allow only 0 or 1
+
+a = 0b111
+b = 0B1111000
+
+111 = 1* 2^2 + 1* 2^1 + 1*2^0
+     4 + 2 + 1
+	 7
+    
+
+Octal (8) :- 
+
+   This  number system allowed 0 to 7
+  0o234568
+  0O  
+   
+   1234567 = 1*8^6 + 2*8^5 +
+   
+   
+Hexadecimal:-
+     This number system allowed 0 to 9 and 
+	 A-F
+	 
+	 0x 122365489ABCDEF
+	 0X  78DEF
+
+bin () convert decimal to binary number
+oct () Decimal to Octal
+hex () Decimal to Hexadecimal
+
+
+2) Float :-
+
+complex ()
+
+String datatype:- 
+
+Multiple/Set of character enclosed within singel quote
+or Double quote
+
+
+'a'
+
+'India USA'
+
+
+
+Integer
+float
+complex
+boolean
+string
+
+
+string   data type
+
+slicing
+
+
+str[starting index:end index]
+
+
+
+end index - start index = number of character to print
+
+
+
+
+TYPE CASTING:-
+-----------------
+int()
+float()
+complex()
+bool()
+str()
+
+
+
+========
+
+gmail id
+
+git install
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
